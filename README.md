@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tanmay Pandey 👋
 
-<!--
-**tanmaypande/tanmaypande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in AI/ML and Software Development
+- 🌱 Currently learning Machine Learning, DSA & development
+- 🔨 Building practical projects
+- 🎯 Goal: Become an AI/ML Engineer
+
+### 🛠️ Tech Stack
+Python | Flask | SQL | HTML | CSS | JavaScript | Git
+
+### 🚀 Projects
+- **Expense Tracker** — Flask, SQLite, HTML & CSS
+- **Pharmacy Management System** — Desktop application
+
+### 🤝 Connect With Me
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_PORTFOLIO_URL
